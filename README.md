@@ -5,3 +5,5 @@ Bioinformatics_resources
     > Use Python packages in R studio
 3. [How To Make Lower Triangle Heatmap with Correlation Matrix in Python?](https://cmdlinetips.com/2020/02/lower-triangle-correlation-heatmap-python/)
     > Draw Triangle Heatmap in Python
+4. [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
+    > Deal swith between Python 2 or 3 globally
