@@ -8,7 +8,10 @@ Bioinformatics_resources
 4. [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
     > Deal swith between Python 2 or 3 globally
 5. fix "zsh: command not found: conda" on Mac
-      * open terminal
-      * enter: export PATH="/Users/weiyanjia/miniconda3/bin:$PATH" ## also should work for anaconda
-      * enter: conda init zsh
-      * close and open a new terminal and should work now.
+    > * open terminal
+    > * enter: export PATH="/Users/weiyanjia/miniconda3/bin:$PATH" ## also should work for anaconda
+    > * enter: conda init zsh
+    > * close and open a new terminal and should work now.
+6. [IDE setting for both Python and R in Atom](https://jstaf.github.io/2018/03/25/atom-ide.html)
+    > * tested for Mac and works
+    > * bash IDE not working yet on Mac
