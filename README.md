@@ -15,3 +15,5 @@ Bioinformatics_resources
 6. [IDE setting for both Python and R in Atom](https://jstaf.github.io/2018/03/25/atom-ide.html)
     > * tested for Mac and works
     > * bash IDE not working yet on Mac
+7. [Select chromosome 1-22, X and  Y](https://stackoverflow.com/questions/31024928/how-to-match-for-multiple-patterns-in-the-specific-column)
+    > * Select chromosome with awk bash command.
