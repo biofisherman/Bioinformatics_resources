@@ -7,7 +7,7 @@ Bioinformatics_resources
     > Draw Triangle Heatmap in Python
 4. [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
     > Deal swith between Python 2 or 3 globally
-5. fix "zsh: command not found: conda" on Mac
+5. Fix "zsh: command not found: conda" on Mac
     > * open terminal
     > * enter: export PATH="/Users/weiyanjia/miniconda3/bin:$PATH" ## also should work for anaconda
     > * enter: conda init zsh
